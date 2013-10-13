@@ -1,4 +1,4 @@
 gentoo-installer
 ================
 
-Gentoo installation script. Usage: 'bash gen-in.su'
+Gentoo installation script. Usage: 'bash ingen.sh'
