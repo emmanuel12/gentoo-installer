@@ -50,7 +50,7 @@ if [[ $1 == *-env* ]]
        eselect profile set 1
 
        #Set the timezone.
-       cp /usr/share/zoneinfo/Australia/Canberra /etc/localtime
+       cp /usr/share/zoneinfo/Country/City /etc/localtime
        echo "Austrlia/Canberra" >> /etc/timezone
 
        #Choose a kernel and ccmpile it, this is assuming you already have a preconfigured kernel.
